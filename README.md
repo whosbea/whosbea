@@ -16,11 +16,11 @@ const bea = {
   birthday: 19 de setembro
   pronouns: "ela" | "dela",
   hobbies: jogar, assistir anime, ver documentario, pesquisar sobre algum interesse aleatorio...
-  code: [nada ainda :( ],
-  tools: [nada ainda tmb :c ],
+  code: [python],
+  tools: [vs code! ],
   college: [icev engenharia de software],
   
- challenge: "Aprender programação na faculdade de engenharia de software!!"
+ challenge: "Aprender novas linguagens de programação e ir na BGS2023!!"
 }
 ```
 </ul>
