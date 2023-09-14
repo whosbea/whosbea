@@ -16,8 +16,8 @@ const bea = {
   birthday: 19 de setembro
   pronouns: "ela" | "dela",
   hobbies: jogar, assistir anime, ver documentario, pesquisar sobre algum interesse aleatorio...
-  code: [python],
-  tools: [vs code! ],
+  code: [python, java],
+  tools: [vs code!],
   college: [icev engenharia de software],
   
  challenge: "Aprender novas linguagens de programação e ir na BGS2023!!"
