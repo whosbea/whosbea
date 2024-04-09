@@ -1,8 +1,6 @@
-<img align="right" alt="" height="250" src="https://i.imgur.com/6WIYpQI.png" >
-<h1>
-    <a href="https://github.com/whosbea">
-     <img align="center" width="37px" src="https://img.icons8.com/?size=512&id=w8vzomb1oP2W&format=png"></a><span> Beatriz Barreto</span>      <img align="right" src="https://github.com/blackcater/blackcater/raw/main/images/banner.gif" width="40">
-</h1>
+<img align="right" alt="" height="250" src="https://imgur.com/4BonlZy.png" >
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=BB00B4&random=false&width=435&height=40&lines=Ol%C3%A1%2C+sou+a+Beatriz+Barreto!+%F0%9F%91%BE%F0%9F%93%9A%F0%9F%92%99)](https://git.io/typing-svg) <img align="right" src="https://github.com/blackcater/blackcater/raw/main/images/banner.gif" width="40">
   
 ```javascript
 const bea = {
@@ -10,37 +8,31 @@ const bea = {
   birthday: 19 de setembro
   pronouns: "ela" | "dela",
   hobbies: jogar, ver youtube, ver documentario, pesquisar sobre algum interesse aleatorio...
-  code: [python, java],
+  code: [python, java, html, css],
   tools: [vs code, eclipse],
   
- challenge: "Aprender novas linguagens de programação, estudar mais sobre inteligencia artificial!!"
+ challenge: "Aprofundar meus conhecimentos em Ciber Segurança e Computação Forense."
 }
 ```
 <br><br>
 <div align="center">
-𝘔𝘪𝘯𝘩𝘢 𝘤𝘰𝘳 𝘱𝘳𝘦𝘧𝘦𝘳𝘪𝘥𝘢 é 𝘳𝘰𝘹𝘰, 𝘮𝘦𝘶 𝘩𝘶𝘮𝘰𝘳 é 𝘲𝘶𝘦𝘣𝘳𝘢𝘥𝘰 𝘦 𝘦𝘶 𝘨𝘰𝘴𝘵𝘰 𝘥𝘰 𝘜𝘴𝘰𝘱𝘱 𝘦𝘮 𝘣𝘢𝘪𝘹𝘢 𝘲𝘶𝘢𝘭𝘪𝘥𝘢𝘥𝘦!
+𝐴𝑡𝑢𝑎𝑙𝑚𝑒𝑛𝑡𝑒 𝑓𝑎ç𝑜 𝑓𝑎𝑐𝑢𝑙𝑑𝑎𝑑𝑒 𝑑𝑒 𝐸𝑛𝑔𝑒𝑛ℎ𝑎𝑟𝑖𝑎 𝑑𝑒 𝑆𝑜𝑓𝑡𝑤𝑎𝑟𝑒, 𝑚𝑖𝑛ℎ𝑎𝑠 á𝑟𝑒𝑎𝑠 𝑑𝑒 𝑖𝑛𝑡𝑒𝑟𝑒𝑠𝑠𝑒 𝑠ã𝑜: 𝐷𝑒𝑠𝑒𝑛𝑣𝑜𝑙𝑣𝑖𝑚𝑒𝑛𝑡𝑜 𝑃𝑦𝑡ℎ𝑜𝑛, 𝑀𝑎𝑐ℎ𝑖𝑛𝑒 𝐿𝑒𝑎𝑟𝑛𝑖𝑛𝑔 𝑒 𝐶𝑜𝑚𝑝𝑢𝑡𝑎çã𝑜 𝐹𝑜𝑟𝑒𝑛𝑠𝑒. 𝑆𝑜𝑢 𝑑𝑒𝑑𝑖𝑐𝑎𝑑𝑎 𝑛𝑜 𝑞𝑢𝑒 𝑔𝑜𝑠𝑡𝑜, 𝑚𝑖𝑛ℎ𝑎 𝑐𝑜𝑟 𝑓𝑎𝑣𝑜𝑟𝑖𝑡𝑎 é 𝑟𝑜𝑥𝑜 𝑒 𝑚𝑒𝑢 ℎ𝑢𝑚𝑜𝑟 é 𝑞𝑢𝑒𝑏𝑟𝑎𝑑𝑜 :𝐷
 <br><br>
 <img align="center" width="300" src="https://media.tenor.com/QT7Mjcj36akAAAAd/usopp-coffe-usopp.gif">
 
 
 ### ⭐GitHub Stats
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=whosbea&line_height=20&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=FFFFFF&hide=html,css&bg_color=000&text_color=FFFFFF&border_radius=3&border_color=561760&count_private=true)
+[![Most Used Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=whosbea&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=FF00F6&hide=html,css&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=561760&count_private=true)](https://github.com/mari4souza/github-readme-stats)
+![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=whosbea&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=FF00F6&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FF00F6&theme=jolly)
+<br>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
+</picture>
+<br><br>
 
-<!-- 
-</ul>
-<h3 align="center">📄 Favorite Languages:</h3>
-<p align="center">
-<a target="_blank"><img alt="Python" src="https://img.shields.io/badge/Python-%2312100E.svg?logo=python&style=for-the-badge&logoColor=yellow"/></a> 
-</p>
-<h3 align="center">⚒ Tools I use:</h3>
-<p align="center"> 
-<a target="_blank"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-%2312100E.svg?logo=visual-studio-code&style=for-the-badge&logoColor=blue"/></a>  
-<a target="_blank"><img alt="Eclipse" src="https://img.shields.io/badge/Eclipse-%2312100E.svg?logo=eclipse&style=for-the-badge&logoColor=gray"/></a>  
-<a target="_blank"><img alt="Git" src="https://img.shields.io/badge/Git-%2312100E.svg?logo=git&style=for-the-badge"/></a> 
-<a target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-black?logo=GitHub&style=for-the-badge"/></a> 
-</p>
--->
  <div align="center">
     “𝘚𝘦 𝘷𝘪 𝘮𝘢𝘪𝘴 𝘭𝘰𝘯𝘨𝘦 𝘧𝘰𝘪 𝘱𝘰𝘳 𝘦𝘴𝘵𝘢𝘳 𝘴𝘰𝘣𝘳𝘦 𝘰𝘴 𝘰𝘮𝘣𝘳𝘰𝘴 𝘥𝘦 𝘨𝘪𝘨𝘢𝘯𝘵𝘦𝘴” - 𝘐𝘴𝘢𝘢𝘤 𝘕𝘦𝘸𝘵𝘰𝘯 
     </div>
