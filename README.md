@@ -7,9 +7,9 @@ const bea = {
   age: 19 anos
   birthday: 19 de setembro
   pronouns: "ela" | "dela",
-  hobbies: jogar, ver youtube, ver documentario, pesquisar sobre algum interesse aleatorio...
-  code: [python, java, html, css],
-  tools: [vs code, eclipse],
+  hobbies: jogar, ver youtube, ver documentario, assistir hora de aventura, pesquisar sobre algum interesse aleatorio, desenhar
+  code: [python, java, javascript, html, css],
+  tools: [vs code, git, github],
   
  challenge: "Aprofundar meus conhecimentos em Ciber Segurança e Computação Forense."
 }
