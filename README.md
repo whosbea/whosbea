@@ -4,7 +4,7 @@
   
 ```javascript
 const bea = {
-  age: 19 anos
+  age: 20 anos
   birthday: 19 de setembro
   pronouns: "ela" | "dela",
   hobbies: jogar, ver youtube, ver documentario, assistir hora de aventura, pesquisar sobre algum interesse aleatorio, desenhar
