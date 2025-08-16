@@ -21,7 +21,7 @@ const bea = {
   code: ["Python 🐍", "Java ☕", "JavaScript 🌐", "HTML & CSS 💻"],
   tools: ["VS Code", "Git", "GitHub"],
   challenge: "Aprofundar meus conhecimentos em Cibersegurança e Computação Forense 🚔",
-  Published Articles: 1
+  Published Articles: 3
 };
 ```
 <div align="center"> <h2>✨ Sobre Mim ✨</h2> <p> Atualmente faço faculdade de Engenharia de Software, minhas áreas de interesse são: Desenvolvimento Python, Inteligência Artificial, Cibersegurança e Computação Forense. Sou dedicada no que gosto, minha cor favorita é roxo e meu humor é quebrado.</p> <img src="https://media.tenor.com/QT7Mjcj36akAAAAd/usopp-coffe-usopp.gif" alt="Usopp tomando café" width="250"> </div>
