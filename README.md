@@ -8,7 +8,7 @@
 
 ```javascript
 const bea = {
-  age: "20 anos",
+  age: "21 anos",
   birthday: "19 de setembro",
   pronouns: "ela | dela",
   hobbies: [
