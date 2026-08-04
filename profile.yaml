@@ -1,0 +1,21 @@
+title: "whosbea — profile.py"
+theme: dracula
+prompt: "whosbea@github:~$ "
+width: 720
+
+steps:
+  - cmd: "python profile.py"
+    output: |
+      bea = {
+        "nome": "Beatriz Barreto",
+        "idade": "21 anos",
+        "formacao": "Engenharia de Software · iCEV",
+        "local": "Teresina, PI",
+        "foco": ["Cibersegurança", "IA", "Computação Forense"],
+        "stack": ["Python", "Java", "JavaScript", "HTML", "CSS"],
+        "publicacoes": 6,
+        "scholar": "scholar.google.com/citations?user=grYhR5AAAAAJ",
+        "status": "aprendendo, pesquisando, codando",
+      }
+
+      >>> aprendendo, pesquisando, codando

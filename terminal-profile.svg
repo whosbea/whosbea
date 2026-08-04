@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="720" height="386"
+     viewBox="0 0 720 386">
+  <style>
+  @keyframes type-cmd0 {
+    0%    { clip-path: inset(0 100% 0 0); }
+    12.295%  { clip-path: inset(0 100% 0 0); animation-timing-function: steps(35, end); }
+    40.984%  { clip-path: inset(0 -20px 0 0); }
+    99.9% { clip-path: inset(0 -20px 0 0); }
+    100%  { clip-path: inset(0 100% 0 0); }
+  }
+  .type-cmd0 {
+    clip-path: inset(0 100% 0 0);
+    animation: type-cmd0 4.067s linear 0s infinite;
+  }
+
+  @keyframes cursor-cmd0 {
+    0%, 12.295% { opacity: 0; }
+    12.3197% { opacity: 1; animation-timing-function: steps(1, end); }
+    40.984%      { opacity: 0; }
+    100%       { opacity: 0; }
+  }
+  .cursor-cmd0 {
+    opacity: 0;
+    animation: cursor-cmd0 4.067s linear 0s infinite;
+  }
+
+  @keyframes fade-out1 {
+    0%    { opacity: 0; }
+    40.984%  { opacity: 0; }
+    50.820%  { opacity: 1; }
+    99.9% { opacity: 1; }
+    100%  { opacity: 0; }
+  }
+  .fade-out1 {
+    opacity: 0;
+    animation: fade-out1 4.067s linear 0s infinite;
+  }
+
+  </style>
+  <!-- Window frame -->
+  <rect x="0" y="0" width="720" height="386"
+        rx="8" ry="8" fill="#282a36" />
+    <!-- Title bar -->
+    <rect x="0" y="0" width="720" height="38"
+          rx="8" ry="8" fill="#44475a" />
+    <rect x="0" y="30" width="720" height="8"
+          fill="#44475a" />
+    <circle cx="16" cy="19" r="6" fill="#ff5f57" />
+    <circle cx="36" cy="19" r="6" fill="#febc2e" />
+    <circle cx="56" cy="19" r="6" fill="#28c840" />
+    <text x="360" y="24" font-family="'JetBrains Mono', 'Fira Code', 'Cascadia Code', monospace" font-size="13" fill="#f8f8f2" opacity="0.7" text-anchor="middle" dominant-baseline="middle">whosbea — profile.py</text>
+  <!-- Terminal body -->
+  <clipPath id="body-clip">
+    <rect x="0" y="38" width="720" height="348" />
+  </clipPath>
+  <g clip-path="url(#body-clip)">
+    <text x="20" y="80" font-family="'JetBrains Mono', 'Fira Code', 'Cascadia Code', monospace" font-size="14" xml:space="preserve" class="type-cmd0"><tspan fill="#50fa7b">whosbea@github:~$ </tspan><tspan fill="#f8f8f2">python profile.py</tspan></text>
+    <rect x="318.9" y="66" width="8.5" height="16" fill="#f8f8f2" opacity="0.7" class="cursor-cmd0" />
+    <text x="20" y="102" font-family="'JetBrains Mono', 'Fira Code', 'Cascadia Code', monospace" font-size="14" fill="#aaaaaa" xml:space="preserve" class="fade-out1">bea = {</text>
+    <text x="20" y="124" font-family="'JetBrains Mono', 'Fira Code', 'Cascadia Code', monospace" font-size="14" fill="#aaaaaa" xml:space="preserve" class="fade-out1">  &quot;nome&quot;: &quot;Beatriz Barreto&quot;,</text>
+    <text x="20" y="146" font-family="'JetBrains Mono', 'Fira Code', 'Cascadia Code', monospace" font-size="14" fill="#aaaaaa" xml:space="preserve" class="fade-out1">  &quot;idade&quot;: &quot;21 anos&quot;,</text>
+    <text x="20" y="168" font-family="'JetBrains Mono', 'Fira Code', 'Cascadia Code', monospace" font-size="14" fill="#aaaaaa" xml:space="preserve" class="fade-out1">  &quot;formacao&quot;: &quot;Engenharia de Software · iCEV&quot;,</text>
+    <text x="20" y="190" font-family="'JetBrains Mono', 'Fira Code', 'Cascadia Code', monospace" font-size="14" fill="#aaaaaa" xml:space="preserve" class="fade-out1">  &quot;local&quot;: &quot;Teresina, PI&quot;,</text>
+    <text x="20" y="212" font-family="'JetBrains Mono', 'Fira Code', 'Cascadia Code', monospace" font-size="14" fill="#aaaaaa" xml:space="preserve" class="fade-out1">  &quot;foco&quot;: [&quot;Cibersegurança&quot;, &quot;IA&quot;, &quot;Computação Forense&quot;],</text>
+    <text x="20" y="234" font-family="'JetBrains Mono', 'Fira Code', 'Cascadia Code', monospace" font-size="14" fill="#aaaaaa" xml:space="preserve" class="fade-out1">  &quot;stack&quot;: [&quot;Python&quot;, &quot;Java&quot;, &quot;JavaScript&quot;, &quot;HTML&quot;, &quot;CSS&quot;],</text>
+    <text x="20" y="256" font-family="'JetBrains Mono', 'Fira Code', 'Cascadia Code', monospace" font-size="14" fill="#aaaaaa" xml:space="preserve" class="fade-out1">  &quot;publicacoes&quot;: 6,</text>
+    <text x="20" y="278" font-family="'JetBrains Mono', 'Fira Code', 'Cascadia Code', monospace" font-size="14" fill="#aaaaaa" xml:space="preserve" class="fade-out1">  &quot;scholar&quot;: &quot;scholar.google.com/citations?user=grYhR5AAAAAJ&quot;,</text>
+    <text x="20" y="300" font-family="'JetBrains Mono', 'Fira Code', 'Cascadia Code', monospace" font-size="14" fill="#aaaaaa" xml:space="preserve" class="fade-out1">  &quot;status&quot;: &quot;aprendendo, pesquisando, codando&quot;,</text>
+    <text x="20" y="322" font-family="'JetBrains Mono', 'Fira Code', 'Cascadia Code', monospace" font-size="14" fill="#aaaaaa" xml:space="preserve" class="fade-out1">}</text>
+    <text x="20" y="344" font-family="'JetBrains Mono', 'Fira Code', 'Cascadia Code', monospace" font-size="14" fill="#aaaaaa" xml:space="preserve" class="fade-out1"></text>
+    <text x="20" y="366" font-family="'JetBrains Mono', 'Fira Code', 'Cascadia Code', monospace" font-size="14" fill="#aaaaaa" xml:space="preserve" class="fade-out1">&gt;&gt;&gt; aprendendo, pesquisando, codando</text>
+  </g>
+</svg>
